@@ -1,0 +1,5 @@
+fuggvenyek.c:10:6:LCD_int	8	dynamic
+fuggvenyek.c:25:6:reverse	8	static
+fuggvenyek.c:37:5:intToStr	16	static
+fuggvenyek.c:54:6:ftoa	32	static
+fuggvenyek.c:76:6:uart_newrow	0	static

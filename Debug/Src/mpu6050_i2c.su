@@ -1,0 +1,2 @@
+mpu6050_i2c.c:10:6:MPU6050_init	48	static
+mpu6050_i2c.c:25:6:MPU_read_gyro	40	static
